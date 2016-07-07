@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_music_peb.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\activity_music_peb.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\artist_list_view_element.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\artist_list_view_element.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\album_list_view.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\album_list_view.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_music_peb.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\fragment_music_peb.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\song_list_view.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\song_list_view.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\bottom_bar_alt.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\bottom_bar_alt.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\player_activity.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\player_activity.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\song_list_element.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\song_list_element.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\layout\\bottom_bar.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\layout\\bottom_bar.xml"
+    }
+]

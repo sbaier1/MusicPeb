@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+        <TextView
+    	android:id="@+id/song"
+    	android:text="@+id/song"
+    	android:layout_width="0dip"
+    	android:layout_height="wrap_content"
+    	android:layout_weight="1"
+    	android:layout_marginRight="20dip"
+    	android:maxLines="1"
+    	android:ellipsize="end"
+   		android:textAppearance="?android:attr/textAppearanceListItemSmall"
+   		android:gravity="center_vertical"
+        android:paddingRight="8dip"
+        android:paddingLeft="8dip"
+   		android:minHeight="?android:attr/listPreferredItemHeightSmall"
+	/>
+    
+    <TextView
+    	android:id="@+id/duration"
+   		android:gravity="center_vertical"
+    	android:layout_width="70dip"
+    	android:layout_height="match_parent"
+    	android:textAppearance="?android:attr/textAppearanceListItemSmall"
+    	android:minHeight="?android:attr/listPreferredItemHeightSmall"
+    	android:text="@+id/duration"
+	/>
+    	
+</LinearLayout><!-- From: file:/home/simon/AndroidstudioProjects/MusicPeb/app/src/main/res/layout/song_list_element.xml -->

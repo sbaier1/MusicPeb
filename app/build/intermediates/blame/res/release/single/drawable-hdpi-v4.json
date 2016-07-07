@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_musicpeb.png",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\drawable-hdpi\\icon_musicpeb.png"
+    }
+]

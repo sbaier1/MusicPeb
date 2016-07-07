@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/songFrame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="horizontal" >
+    
+        <ImageView
+            android:id="@+id/albumCover"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dip"
+            android:layout_marginLeft="4dip"
+            android:layout_marginTop="4dip"
+            android:minHeight="50dip"
+            android:minWidth="50dip"
+            android:maxWidth="50dip"
+            android:maxHeight="50dip"
+            android:src="@drawable/player_default_album" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:orientation="vertical" >
+        <TextView
+            android:id="@+id/text_bottom1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:paddingRight="8dip"
+            android:paddingLeft="8dip"
+            android:text="@+id/textBottom1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/text_bottom2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:paddingRight="8dip"
+            android:paddingLeft="8dip"
+            android:text="@+id/textBottom2"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+		</LinearLayout>
+</LinearLayout><!-- From: file:/home/simon/AndroidstudioProjects/MusicPeb/app/src/main/res/layout/bottom_bar.xml -->

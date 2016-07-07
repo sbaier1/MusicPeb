@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim_slide_in.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\anim\\anim_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\release\\anim\\anim_slide_out.xml",
+        "source": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\anim\\anim_slide_out.xml"
+    }
+]

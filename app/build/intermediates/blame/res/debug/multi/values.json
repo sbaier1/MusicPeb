@@ -1,0 +1,165 @@
+[
+    {
+        "outputFile": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 52,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 45,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 45,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 52,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 52,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 851,
+                    "endLine": 23,
+                    "endColumn": 9,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "D:\\Downloads\\AndroidstudioProjects\\AndroidstudioProjects\\MusicPeb\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 751,
+                        "endLine": 25,
+                        "endColumn": 9,
+                        "endOffset": 1134
+                    }
+                }
+            }
+        ]
+    }
+]

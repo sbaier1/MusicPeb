@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/songFrame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/albumCover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="4dip"
+            android:layout_marginLeft="4dip"
+            android:layout_marginTop="4dip"
+            android:minHeight="50dip"
+            android:minWidth="50dip"
+            android:maxWidth="50dip"
+            android:maxHeight="50dip"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/text_bottom1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/albumCover"
+            android:paddingRight="8dip"
+            android:paddingLeft="8dip"
+            android:text="@+id/textBottom1"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/text_bottom2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@+id/text_bottom1"
+            android:layout_toRightOf="@+id/albumCover"
+            android:paddingRight="8dip"
+            android:paddingLeft="8dip"
+            android:text="@+id/textBottom2"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </RelativeLayout>
+
+</LinearLayout>
